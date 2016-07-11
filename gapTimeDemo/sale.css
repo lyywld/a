@@ -9,7 +9,7 @@ body{font-family: "微软雅黑", "宋体", Arial;font-size:12px;margin:0;}
 .activity span{color:#f00;padding-left:20px;}
 .activity p>i{padding-right:15px;}
 .activity p input{margin-bottom:16px;}
-.activityDate{width:465px;padding-bottom:6px;margin-left: 75px;
+.activityDate{width:465px;background:#e2e1f0;padding-bottom:6px;margin-left: 75px;
 margin-top: -30px;}
 .activityDate i{color:#30043f;}
 .activityStartDate{margin-bottom:18px;margin-top:10px;}
