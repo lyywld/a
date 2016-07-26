@@ -1,0 +1,35 @@
+/*分页样式*/
+.page-style
+{
+	clear: both;
+	display: block;
+	width: 80%;
+	margin: 10px auto; 
+	padding: 15px 10px;
+	text-align: center;
+}
+.page-style>span
+{
+	margin:  0  2px;
+	text-align: center;
+	border-color: #4FC7BD;
+	background: #4FC7BD;
+	border-radius: 5px;
+	padding: 5px 10px;
+	color: #EBDCDC;
+}
+.page-style>.now-style
+{
+	border-color: #0B721B;
+	background: #0B721B;
+}
+.page-style>span:hover
+{
+	border-color: #418A84;
+	background: #418A84;
+	color: #fff;
+}
+.page-style>span>a:link { text-decoration: none;color: #fff} 
+.page-style>span>a:active { text-decoration:blink} 
+.page-style>span>a:hover { text-decoration:none;color: #fff} 
+.page-style>span>a:visited { text-decoration: none;color: #fff}
